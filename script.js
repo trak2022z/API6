@@ -1,6 +1,4 @@
 /**
- * CSE 154 | Autumn 2019
- *
  * A program to fetch and display the Astronomy Picture of the Day from the NASA API.
  */
 "use strict";
